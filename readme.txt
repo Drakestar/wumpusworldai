@@ -1,3 +1,5 @@
+This was for a class, all that's actually mine is Agent.h and Agent.c all other stuff is from below.
+
 Wumpus Simulator v2.9 (released 09/15/2017)
 
 Copyright (c) 2017. Washington State University.
